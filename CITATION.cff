@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it and the underlying INDEC EPH source for the relevant period."
 title: "Más allá de la educación: estructura productiva y brechas de género en las ocupaciones tecnológicas argentinas"
 type: software
-version: "0.1.0"
+version: "1.0.0"
 license: BSD-3-Clause
 authors:
   - family-names: "Jara Musuruana"
