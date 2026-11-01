@@ -8,8 +8,10 @@ authors:
   - family-names: "Jara Musuruana"
     given-names: "Luciano Andrés"
     orcid: "https://orcid.org/0000-0002-0203-180X"
+    affiliation: "Universidad Nacional de Rosario"
   - family-names: "Calcabrini"
     given-names: "Natalia B."
+    affiliation: "Universidad Nacional de Rosario"
 repository-code: "https://github.com/Jara-L/eph-genero-tecnologia-reproducible"
 abstract: >-
   Reproducible code for the study of productive structure, education, and observed
