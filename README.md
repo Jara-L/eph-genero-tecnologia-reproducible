@@ -65,7 +65,7 @@ La ejecución auditada reprodujo 178.474 registros, 79.222 observaciones del uni
 
 ## Licencia y citación
 
-Este repositorio no declara todavía una licencia. No reutilice ni redistribuya el código hasta que los autores elijan y publiquen una licencia. Para citar el software, consulte [`CITATION.cff`](CITATION.cff). Cite los datos como “Fuente: Instituto Nacional de Estadística y Censos (INDEC)”, indicando período y base EPH.
+El código científico de este repositorio se distribuye bajo la licencia [BSD-3-Clause](LICENSE). Los microdatos EPH no se redistribuyen: deben obtenerse directamente del [INDEC](https://www.indec.gob.ar/). La licencia del código no modifica los derechos de terceros sobre los microdatos, las fuentes, los datos derivados ni otros materiales. Para citar el software, consulte [`CITATION.cff`](CITATION.cff). Cite los datos como “Fuente: Instituto Nacional de Estadística y Censos (INDEC)”, indicando período y base EPH.
 
 ---
 
@@ -75,7 +75,7 @@ This repository contains reproducible code for the article on productive structu
 
 The project uses official INDEC EPH microdata for 2025-Q2 through 2026-Q1. Download the four ZIP files listed above into `data/raw/`, then run the commands in the Spanish instructions. The pipeline creates ignored processed data and reports. It includes descriptive Kitagawa decomposition and exploratory multinomial models with standardized predictions. Results are descriptive or associational, not causal; official survey variance is not fully reproduced. Public-use microdata are not redistributed.
 
-Author affiliation and Natalia B. Calcabrini’s ORCID remain to be confirmed. No software license has been declared yet; consult [`CITATION.cff`](CITATION.cff) before reuse.
+Author affiliation and Natalia B. Calcabrini’s ORCID remain to be confirmed. The scientific code in this repository is distributed under the [BSD-3-Clause license](LICENSE). The EPH microdata must be obtained from [INDEC](https://www.indec.gob.ar/); the software license does not change third-party rights in the microdata, source materials, derived data, or other materials. Consult [`CITATION.cff`](CITATION.cff) when citing the software.
 
 ## Portability status
 
