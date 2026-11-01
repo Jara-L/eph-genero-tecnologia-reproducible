@@ -1,0 +1,111 @@
+sector_provisional,sex,technology_category,unweighted,weighted,weighted_percent,unweighted_percent,sex_label
+Actividades inmobiliarias,1,No tecnológica,60,16015.0,30.889557535779037,30.15075376884422,Varones
+Actividades inmobiliarias,1,Operación de máquinas,4,738.0,1.4234463603749565,2.0100502512562812,Varones
+Actividades inmobiliarias,1,Operación de sistemas informatizados,135,35093.0,67.68699610384601,67.8391959798995,Varones
+Actividades inmobiliarias,2,No tecnológica,44,10786.75,20.904149144396428,20.5607476635514,Mujeres
+Actividades inmobiliarias,2,Operación de máquinas,2,157.25,0.30474215615976435,0.9345794392523363,Mujeres
+Actividades inmobiliarias,2,Operación de sistemas informatizados,168,40657.0,78.79110869944381,78.50467289719626,Mujeres
+Administración pública,1,No tecnológica,1447,174752.75,33.137922223344184,35.27547537786446,Varones
+Administración pública,1,Operación de máquinas,545,74152.75,14.061398531050786,13.286201852754754,Varones
+Administración pública,1,Operación de sistemas informatizados,2110,278444.25,52.80067924560503,51.4383227693808,Varones
+Administración pública,2,No tecnológica,684,80524.25,19.196493225142216,20.135413600235502,Mujeres
+Administración pública,2,Operación de máquinas,125,14084.5,3.3576594482968245,3.679717397703856,Mujeres
+Administración pública,2,Operación de sistemas informatizados,2588,324865.0,77.44584732656095,76.18486900206064,Mujeres
+"Agropecuario, silvicultura y pesca",1,No tecnológica,376,31033.5,60.78980617231956,65.73426573426573,Varones
+"Agropecuario, silvicultura y pesca",1,Operación de máquinas,123,9914.75,19.421455225707877,21.503496503496503,Varones
+"Agropecuario, silvicultura y pesca",1,Operación de sistemas informatizados,73,10102.25,19.788738601972554,12.762237762237763,Varones
+"Agropecuario, silvicultura y pesca",2,No tecnológica,75,7302.75,54.19078361531612,58.59375,Mujeres
+"Agropecuario, silvicultura y pesca",2,Operación de máquinas,7,601.0,4.4597803502523,5.46875,Mujeres
+"Agropecuario, silvicultura y pesca",2,Operación de sistemas informatizados,46,5572.25,41.349436034431584,35.9375,Mujeres
+"Artes, recreación y otros servicios",1,No tecnológica,1701,299016.0,77.29452614722268,77.60036496350365,Varones
+"Artes, recreación y otros servicios",1,Operación de máquinas,75,13807.25,3.569122876856892,3.4215328467153285,Varones
+"Artes, recreación y otros servicios",1,Operación de sistemas informatizados,416,74029.5,19.136350975920426,18.97810218978102,Varones
+"Artes, recreación y otros servicios",2,No tecnológica,1670,290427.0,75.24317686331963,73.89380530973452,Mujeres
+"Artes, recreación y otros servicios",2,Operación de máquinas,186,32861.5,8.513683839636048,8.230088495575222,Mujeres
+"Artes, recreación y otros servicios",2,Operación de sistemas informatizados,404,62696.0,16.243139297044312,17.876106194690266,Mujeres
+Comercio,1,No tecnológica,4222,699964.5,54.40241838786189,53.72868414354798,Varones
+Comercio,1,Operación de máquinas,1363,207728.75,16.14502788168195,17.345380503945023,Varones
+Comercio,1,Operación de sistemas informatizados,2273,378949.0,29.452553730456156,28.925935352506997,Varones
+Comercio,2,No tecnológica,3547,612322.0,57.25138255531799,55.66541117388575,Mujeres
+Comercio,2,Operación de máquinas,290,43258.5,4.044618570407764,4.551161330822348,Mujeres
+Comercio,2,Operación de sistemas informatizados,2535,413951.75,38.70399887427424,39.7834274952919,Mujeres
+Construcción,1,No tecnológica,6178,965239.0,92.59220355648284,91.67532274818223,Varones
+Construcción,1,Operación de máquinas,294,37713.25,3.6177080710337304,4.362665083840332,Varones
+Construcción,1,Operación de sistemas informatizados,267,39510.25,3.7900883724834222,3.9620121679774445,Varones
+Construcción,2,No tecnológica,88,13357.75,33.68214684208204,37.28813559322034,Mujeres
+Construcción,2,Operación de máquinas,3,271.25,0.6839686572150814,1.2711864406779663,Mujeres
+Construcción,2,Operación de sistemas informatizados,145,26029.25,65.63388450070288,61.440677966101696,Mujeres
+Educación,1,No tecnológica,861,130873.25,48.83498777476461,50.204081632653065,Varones
+Educación,1,Operación de máquinas,21,3828.0,1.4284075103338454,1.2244897959183674,Varones
+Educación,1,Operación de sistemas informatizados,833,133289.5,49.73660471490154,48.57142857142857,Varones
+Educación,2,No tecnológica,2438,359093.5,51.679989868178374,51.26156433978133,Mujeres
+Educación,2,Operación de máquinas,20,3304.25,0.4755407895768885,0.42052144659377627,Mujeres
+Educación,2,Operación de sistemas informatizados,2298,332442.75,47.844469342244736,48.317914213624896,Mujeres
+"Energía, agua y residuos",1,No tecnológica,297,52619.75,54.058795126261074,50.76923076923077,Varones
+"Energía, agua y residuos",1,Operación de máquinas,145,21268.75,21.850407857157535,24.786324786324787,Varones
+"Energía, agua y residuos",1,Operación de sistemas informatizados,143,23449.5,24.090797016581398,24.444444444444443,Varones
+"Energía, agua y residuos",2,No tecnológica,32,3459.5,18.215084901934976,26.666666666666668,Mujeres
+"Energía, agua y residuos",2,Operación de máquinas,5,692.0,3.643543504014743,4.166666666666666,Mujeres
+"Energía, agua y residuos",2,Operación de sistemas informatizados,83,14841.0,78.14137159405028,69.16666666666667,Mujeres
+Finanzas y seguros,1,No tecnológica,36,8300.75,6.996807468206387,6.90978886756238,Varones
+Finanzas y seguros,1,Operación de máquinas,21,2826.75,2.382703431708268,4.030710172744722,Varones
+Finanzas y seguros,1,Operación de sistemas informatizados,464,107508.75,90.62048910008535,89.0595009596929,Varones
+Finanzas y seguros,2,No tecnológica,32,5242.75,4.286584468464343,6.262230919765166,Mujeres
+Finanzas y seguros,2,Operación de máquinas,4,1525.5,1.247281408925155,0.7827788649706457,Mujeres
+Finanzas y seguros,2,Operación de sistemas informatizados,475,115537.75,94.4661341226105,92.95499021526419,Mujeres
+Hogares empleadores,1,No tecnológica,115,20831.25,96.31055168348416,99.13793103448276,Varones
+Hogares empleadores,1,Operación de sistemas informatizados,1,798.0,3.6894483165158296,0.8620689655172413,Varones
+Hogares empleadores,2,No tecnológica,5395,850387.25,99.98765420848926,99.94442386068914,Mujeres
+Hogares empleadores,2,Operación de máquinas,1,44.25,0.005202869279526063,0.018525379770285292,Mujeres
+Hogares empleadores,2,Operación de sistemas informatizados,2,60.75,0.007142922231213747,0.037050759540570584,Mujeres
+Hotelería y restaurantes,1,No tecnológica,1224,208351.0,75.83342205091388,75.0920245398773,Varones
+Hotelería y restaurantes,1,Operación de máquinas,245,38180.5,13.896539832373819,15.030674846625766,Varones
+Hotelería y restaurantes,1,Operación de sistemas informatizados,161,28216.75,10.2700381167123,9.877300613496933,Varones
+Hotelería y restaurantes,2,No tecnológica,1666,276934.75,80.6778977144859,82.76204669647292,Mujeres
+Hotelería y restaurantes,2,Operación de máquinas,93,15097.75,4.3983455677515355,4.619970193740686,Mujeres
+Hotelería y restaurantes,2,Operación de sistemas informatizados,254,51227.25,14.923756717762569,12.617983109786387,Mujeres
+Industria manufacturera,1,No tecnológica,2498,449102.5,51.80978496924712,57.00593336376084,Varones
+Industria manufacturera,1,Operación de máquinas,1164,244714.25,28.23095545317735,26.563213144682795,Varones
+Industria manufacturera,1,Operación de sistemas informatizados,720,173012.75,19.959259577575523,16.430853491556366,Varones
+Industria manufacturera,2,No tecnológica,1155,203844.25,50.32945924241966,54.63576158940398,Mujeres
+Industria manufacturera,2,Operación de máquinas,559,96573.0,23.844022421128848,26.442762535477765,Mujeres
+Industria manufacturera,2,Operación de sistemas informatizados,400,104602.5,25.826518336451493,18.92147587511826,Mujeres
+Información y comunicaciones,1,No tecnológica,135,25002.0,12.294135797536699,15.588914549653579,Varones
+Información y comunicaciones,1,Operación de máquinas,34,2646.75,1.301476038802106,3.9260969976905313,Varones
+Información y comunicaciones,1,Operación de sistemas informatizados,697,175716.5,86.4043881636612,80.4849884526559,Varones
+Información y comunicaciones,2,No tecnológica,25,2926.5,3.584431332081977,6.9252077562326875,Mujeres
+Información y comunicaciones,2,Operación de máquinas,4,425.75,0.5214664751867082,1.10803324099723,Mujeres
+Información y comunicaciones,2,Operación de sistemas informatizados,332,78292.5,95.89410219273131,91.96675900277008,Mujeres
+Minería y canteras,1,No tecnológica,124,12108.75,30.954222134170113,32.631578947368425,Varones
+Minería y canteras,1,Operación de máquinas,107,9495.0,24.272558204929922,28.157894736842103,Varones
+Minería y canteras,1,Operación de sistemas informatizados,149,17514.5,44.77321966089997,39.21052631578947,Varones
+Minería y canteras,2,No tecnológica,13,1308.75,12.097612830171238,17.80821917808219,Mujeres
+Minería y canteras,2,Operación de máquinas,3,262.0,2.421833475839438,4.10958904109589,Mujeres
+Minería y canteras,2,Operación de sistemas informatizados,57,9247.5,85.48055369398932,78.08219178082192,Mujeres
+Organismos extraterritoriales,1,Operación de máquinas,1,362.5,26.074447041898942,20.0,Varones
+Organismos extraterritoriales,1,Operación de sistemas informatizados,4,1027.75,73.92555295810106,80.0,Varones
+Organismos extraterritoriales,2,Operación de sistemas informatizados,3,199.5,100.0,100.0,Mujeres
+Salud y servicios sociales,1,No tecnológica,696,119043.5,51.95156305062445,53.08924485125858,Varones
+Salud y servicios sociales,1,Operación de máquinas,136,22430.25,9.788745686377407,10.373760488176965,Varones
+Salud y servicios sociales,1,Operación de sistemas informatizados,479,87669.5,38.259691262998146,36.53699466056445,Varones
+Salud y servicios sociales,2,No tecnológica,2022,346285.25,56.197462243003926,57.41056218057922,Mujeres
+Salud y servicios sociales,2,Operación de máquinas,93,15571.5,2.5270460792567273,2.6405451448040886,Mujeres
+Salud y servicios sociales,2,Operación de sistemas informatizados,1407,254337.0,41.275491677739346,39.948892674616694,Mujeres
+Servicios administrativos y de apoyo,1,No tecnológica,1360,226325.0,60.30416533719507,62.41395135383203,Varones
+Servicios administrativos y de apoyo,1,Operación de máquinas,439,64657.5,17.2279534752665,20.146856356126662,Varones
+Servicios administrativos y de apoyo,1,Operación de sistemas informatizados,380,84323.25,22.467881187538428,17.4391922900413,Varones
+Servicios administrativos y de apoyo,2,No tecnológica,538,92728.75,54.875739364834196,59.84427141268076,Mujeres
+Servicios administrativos y de apoyo,2,Operación de máquinas,47,7297.5,4.318571187629269,5.228031145717464,Mujeres
+Servicios administrativos y de apoyo,2,Operación de sistemas informatizados,314,68953.25,40.80568944753654,34.92769744160178,Mujeres
+"Servicios profesionales, científicos y técnicos",1,No tecnológica,152,30365.5,13.293262311606185,13.693693693693692,Varones
+"Servicios profesionales, científicos y técnicos",1,Operación de máquinas,25,4734.0,2.0724277151090447,2.2522522522522523,Varones
+"Servicios profesionales, científicos y técnicos",1,Operación de sistemas informatizados,933,193328.25,84.63430997328477,84.05405405405405,Varones
+"Servicios profesionales, científicos y técnicos",2,No tecnológica,129,24563.0,9.570994389027431,10.652353426919902,Mujeres
+"Servicios profesionales, científicos y técnicos",2,Operación de máquinas,9,856.25,0.3336385598503741,0.7431874483897605,Mujeres
+"Servicios profesionales, científicos y técnicos",2,Operación de sistemas informatizados,1073,231220.75,90.0953670511222,88.60445912469034,Mujeres
+Transporte y almacenamiento,1,No tecnológica,484,117475.0,17.095665144707404,14.260459634649381,Varones
+Transporte y almacenamiento,1,Operación de máquinas,2564,486397.0,70.78340276135557,75.54507955215085,Varones
+Transporte y almacenamiento,1,Operación de sistemas informatizados,346,83290.5,12.120932093937023,10.194460813199765,Varones
+Transporte y almacenamiento,2,No tecnológica,84,21354.5,25.928792804606704,20.047732696897373,Mujeres
+Transporte y almacenamiento,2,Operación de máquinas,175,27601.0,33.51333958650166,41.766109785202865,Mujeres
+Transporte y almacenamiento,2,Operación de sistemas informatizados,160,33402.75,40.55786760889164,38.18615751789976,Mujeres

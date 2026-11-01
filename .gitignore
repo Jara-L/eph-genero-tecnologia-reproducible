@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+.coverage*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos, credenciales y secretos
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.*
+
+# Trabajo local en la raíz
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+/*.ipynb
+/*.py
+/*.pdf
+/*.docx
+/*.pptx
+/*.txt
+/graficos.xlsx
+
+# Datos EPH y derivados
+data/raw/
+data/interim/
+data/processed/
+*.dta
+*.sav
+*.sas7bdat
+*.parquet
+*.feather
+*.sqlite
+*.db
+*.zip
+*.7z
+usu_*.xlsx
+EPH_*.xlsx
+EPH_*.zip
+
+# Salidas regenerables o pesadas
+outputs/
+reports/generated/
+salidas_eph_tecnologia/
+salidas_eph_tecnologia_3cat/
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+
+# Temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+.DS_Store
+Thumbs.db
+
+# Artefactos agregados seleccionados para la distribución pública
+!requirements-public.txt
+!results/
+!results/**

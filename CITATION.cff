@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the underlying INDEC EPH source for the relevant period."
+title: "Más allá de la educación: estructura productiva y brechas de género en las ocupaciones tecnológicas argentinas"
+type: software
+version: "0.1.0"
+authors:
+  - family-names: "Jara Musuruana"
+    given-names: "Luciano Andrés"
+    orcid: "https://orcid.org/0000-0002-0203-180X"
+  - family-names: "Calcabrini"
+    given-names: "Natalia B."
+repository-code: "https://github.com/Jara-L/eph-genero-tecnologia"
+abstract: >-
+  Reproducible code for the study of productive structure, education, and observed
+  sex gaps in Argentine technology occupations using official INDEC EPH microdata.
+keywords:
+  - Argentina
+  - EPH
+  - gender gaps
+  - technology occupations
+  - Kitagawa decomposition
+  - multinomial models
+date-released: 2026-11-01

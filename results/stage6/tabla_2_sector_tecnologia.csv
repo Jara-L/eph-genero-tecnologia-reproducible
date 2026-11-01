@@ -1,0 +1,57 @@
+sector_provisional,technology_category,unweighted,weighted,weighted_percent,unweighted_percent
+Actividades inmobiliarias,No tecnológica,104,26801.75,25.908677873693776,25.181598062954
+Actividades inmobiliarias,Operación de máquinas,6,895.25,0.8654190068344176,1.4527845036319613
+Actividades inmobiliarias,Operación de sistemas informatizados,303,75750.0,73.22590311947181,73.36561743341404
+Administración pública,No tecnológica,2131,255277.0,26.961413610878903,28.417122282971064
+Administración pública,Operación de máquinas,670,88237.25,9.319292349630105,8.934524603280437
+Administración pública,Operación de sistemas informatizados,4698,603309.25,63.71929403949099,62.6483531137485
+"Agropecuario, silvicultura y pesca",No tecnológica,451,38336.25,59.4116370793395,64.42857142857143
+"Agropecuario, silvicultura y pesca",Operación de máquinas,130,10515.75,16.296792790558918,18.571428571428573
+"Agropecuario, silvicultura y pesca",Operación de sistemas informatizados,119,15674.5,24.291570130101586,17.0
+"Artes, recreación y otros servicios",No tecnológica,3371,589443.0,76.27000380739929,75.71877807726864
+"Artes, recreación y otros servicios",Operación de máquinas,261,46668.75,6.038625855573085,5.862533692722372
+"Artes, recreación y otros servicios",Operación de sistemas informatizados,820,136725.5,17.69137033702762,18.418688230008982
+Comercio,No tecnológica,7769,1312286.5,55.6956413881909,54.59592410400562
+Comercio,Operación de máquinas,1653,250987.25,10.652320106172104,11.616303583977512
+Comercio,Operación de sistemas informatizados,4808,792900.75,33.652038505637,33.78777231201687
+Construcción,No tecnológica,6266,978596.75,90.43323030262566,89.83512544802868
+Construcción,Operación de máquinas,297,37984.5,3.510190521713959,4.258064516129032
+Construcción,Operación de sistemas informatizados,412,65539.5,6.056579175660387,5.906810035842295
+Educación,No tecnológica,3299,489966.75,50.88812291873575,50.98130118992428
+Educación,Operación de máquinas,41,7132.25,0.7407580508006985,0.6335960438881162
+Educación,Operación de sistemas informatizados,3131,465732.25,48.37111903046355,48.38510276618761
+"Energía, agua y residuos",No tecnológica,329,56079.25,48.20683311771204,46.666666666666664
+"Energía, agua y residuos",Operación de máquinas,150,21960.75,18.877895306905756,21.27659574468085
+"Energía, agua y residuos",Operación de sistemas informatizados,226,38290.5,32.91527157538221,32.05673758865248
+Finanzas y seguros,No tecnológica,68,13543.5,5.62105649797825,6.5891472868217065
+Finanzas y seguros,Operación de máquinas,25,4352.25,1.806345711472355,2.422480620155039
+Finanzas y seguros,Operación de sistemas informatizados,939,223046.5,92.5725977905494,90.98837209302324
+Hogares empleadores,No tecnológica,5510,871218.5,99.89645938094634,99.92745738121145
+Hogares empleadores,Operación de máquinas,1,44.25,0.005073834322396592,0.018135654697134566
+Hogares empleadores,Operación de sistemas informatizados,3,858.75,0.09846678473125592,0.0544069640914037
+Hotelería y restaurantes,No tecnológica,2890,485285.75,78.52418577105797,79.3302223442218
+Hotelería y restaurantes,Operación de máquinas,338,53278.25,8.620964453534583,9.278067526763657
+Hotelería y restaurantes,Operación de sistemas informatizados,415,79444.0,12.854849775407438,11.391710129014548
+Industria manufacturera,No tecnológica,3653,652946.75,51.338375990708016,56.23460591133005
+Industria manufacturera,Operación de máquinas,1723,341287.25,26.83393884927793,26.52401477832512
+Industria manufacturera,Operación de sistemas informatizados,1120,277615.25,21.827685160014052,17.24137931034483
+Información y comunicaciones,No tecnológica,160,27928.5,9.799129855092804,13.039934800325998
+Información y comunicaciones,Operación de máquinas,38,3072.5,1.0780323497421145,3.0969845150774247
+Información y comunicaciones,Operación de sistemas informatizados,1029,254009.0,89.12283779516508,83.86308068459658
+Minería y canteras,No tecnológica,137,13417.5,26.86912378720976,30.242825607064017
+Minería y canteras,Operación de máquinas,110,9757.0,19.538814294153575,24.282560706401764
+Minería y canteras,Operación de sistemas informatizados,206,26762.0,53.59206191863667,45.47461368653421
+Organismos extraterritoriales,Operación de máquinas,1,362.5,22.802327409970122,12.5
+Organismos extraterritoriales,Operación de sistemas informatizados,7,1227.25,77.19767259002988,87.5
+Salud y servicios sociales,No tecnológica,2718,465328.75,55.04653765303068,56.23836126629422
+Salud y servicios sociales,Operación de máquinas,229,38001.75,4.495455658512522,4.73825781088351
+Salud y servicios sociales,Operación de sistemas informatizados,1886,342006.5,40.45800668845679,39.02338092282226
+Servicios administrativos y de apoyo,No tecnológica,1898,319053.75,58.618849215553794,61.66341780376868
+Servicios administrativos y de apoyo,Operación de máquinas,486,71955.0,13.220090017137153,15.789473684210526
+Servicios administrativos y de apoyo,Operación de sistemas informatizados,694,153276.5,28.161060767309053,22.54710851202079
+"Servicios profesionales, científicos y técnicos",No tecnológica,281,54928.5,11.323882076266665,12.106850495476088
+"Servicios profesionales, científicos y técnicos",Operación de máquinas,34,5590.25,1.152467876909978,1.4648858250753987
+"Servicios profesionales, científicos y técnicos",Operación de sistemas informatizados,2006,424549.0,87.52365004682335,86.42826367944852
+Transporte y almacenamiento,No tecnológica,568,138829.5,18.041033981214934,14.896407028586415
+Transporte y almacenamiento,Operación de máquinas,2739,513998.0,66.79456012069849,71.83320220298978
+Transporte y almacenamiento,Operación de sistemas informatizados,506,116693.25,15.164405898086569,13.270390768423812

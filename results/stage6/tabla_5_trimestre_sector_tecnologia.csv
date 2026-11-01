@@ -1,0 +1,217 @@
+source_quarter,sector_provisional,technology_category,unweighted,weighted,weighted_percent,unweighted_percent
+2025-T2,Actividades inmobiliarias,No tecnológica,34,37226,0.30428115559159336,0.17975151995770552
+2025-T2,Actividades inmobiliarias,Operación de máquinas,2,1938,0.01584099499104142,0.010573618821041502
+2025-T2,Actividades inmobiliarias,Operación de sistemas informatizados,80,83440,0.6820292167453539,0.42294475284166005
+2025-T2,Administración pública,No tecnológica,530,230922,1.8875305703412109,2.802008987575998
+2025-T2,Administración pública,Operación de máquinas,140,64685,0.5287279468501105,0.740153317472905
+2025-T2,Administración pública,Operación de sistemas informatizados,1210,556224,4.546512692413325,6.397039386730108
+2025-T2,"Agropecuario, silvicultura y pesca",No tecnológica,106,35930,0.2936877967121353,0.5604017975151996
+2025-T2,"Agropecuario, silvicultura y pesca",Operación de máquinas,42,18124,0.14814354655192707,0.22204599524187152
+2025-T2,"Agropecuario, silvicultura y pesca",Operación de sistemas informatizados,34,14931,0.12204432209042282,0.17975151995770552
+2025-T2,"Artes, recreación y otros servicios",No tecnológica,811,554075,4.528947007049161,4.287602431932329
+2025-T2,"Artes, recreación y otros servicios",Operación de máquinas,78,62347,0.5096173966493599,0.4123711340206186
+2025-T2,"Artes, recreación y otros servicios",Operación de sistemas informatizados,225,149724,1.2238272105462773,1.189532117367169
+2025-T2,Comercio,No tecnológica,1926,1293189,10.570382080221806,10.182394924662965
+2025-T2,Comercio,Operación de máquinas,448,285267,2.3317405150203365,2.3684906159132963
+2025-T2,Comercio,Operación de sistemas informatizados,1292,793197,6.483503459189412,6.83055775839281
+2025-T2,Construcción,No tecnológica,1619,968703,7.9180698507775,8.559344435633095
+2025-T2,Construcción,Operación de máquinas,58,23092,0.18875142225651623,0.30663494581020356
+2025-T2,Construcción,Operación de sistemas informatizados,108,75415,0.6164337653505617,0.570975416336241
+2025-T2,Educación,No tecnológica,844,507995,4.152294246890653,4.462067142479514
+2025-T2,Educación,Operación de máquinas,12,9217,0.07533872591972589,0.063441712926249
+2025-T2,Educación,Operación de sistemas informatizados,901,512499,4.189109438551979,4.763415278879196
+2025-T2,"Energía, agua y residuos",No tecnológica,104,60184,0.491937276852857,0.5498281786941581
+2025-T2,"Energía, agua y residuos",Operación de máquinas,43,26558,0.21708211814864706,0.2273328046523923
+2025-T2,"Energía, agua y residuos",Operación de sistemas informatizados,71,44413,0.36302688882204465,0.3753634681469733
+2025-T2,Finanzas y seguros,No tecnológica,20,17719,0.14483312190209643,0.10573618821041501
+2025-T2,Finanzas y seguros,Operación de máquinas,8,3894,0.03182911996651975,0.04229447528416601
+2025-T2,Finanzas y seguros,Operación de sistemas informatizados,247,245549,2.0070900304722543,1.3058419243986255
+2025-T2,Hogares empleadores,No tecnológica,1395,869626,7.108225546996587,7.375099127676448
+2025-T2,Hotelería y restaurantes,No tecnológica,830,524987,4.291184952199103,4.388051810732223
+2025-T2,Hotelería y restaurantes,Operación de máquinas,130,75256,0.6151341171547022,0.6872852233676976
+2025-T2,Hotelería y restaurantes,Operación de sistemas informatizados,113,72661,0.5939228777317134,0.5974094633888448
+2025-T2,Industria manufacturera,No tecnológica,824,590025,4.822798281521782,4.356330954269098
+2025-T2,Industria manufacturera,Operación de máquinas,402,312400,2.5535226187829405,2.125297383029342
+2025-T2,Industria manufacturera,Operación de sistemas informatizados,304,280060,2.2891790800779463,1.607190060798308
+2025-T2,Información y comunicaciones,No tecnológica,36,31345,0.2562105201208428,0.19032513877874702
+2025-T2,Información y comunicaciones,Operación de máquinas,8,2189,0.017892640885133988,0.04229447528416601
+2025-T2,Información y comunicaciones,Operación de sistemas informatizados,249,247528,2.0232661548722914,1.316415543219667
+2025-T2,Minería y canteras,No tecnológica,44,17734,0.14495573022246053,0.23261961406291304
+2025-T2,Minería y canteras,Operación de máquinas,27,8234,0.06730379399186534,0.14274385408406026
+2025-T2,Minería y canteras,Operación de sistemas informatizados,59,24574,0.2008651243084891,0.3119217552207243
+2025-T2,Organismos extraterritoriales,Operación de sistemas informatizados,1,325,0.002656513607888783,0.005286809410520751
+2025-T2,Salud y servicios sociales,No tecnológica,702,486056,3.9729673175261238,3.711340206185567
+2025-T2,Salud y servicios sociales,Operación de máquinas,52,28682,0.23444345631220329,0.27491408934707906
+2025-T2,Salud y servicios sociales,Operación de sistemas informatizados,434,301306,2.462841505041654,2.2944752841660057
+2025-T2,Servicios administrativos y de apoyo,No tecnológica,479,279222,2.282329361913605,2.5323817076394395
+2025-T2,Servicios administrativos y de apoyo,Operación de máquinas,123,57446,0.46955717144239695,0.6502775574940524
+2025-T2,Servicios administrativos y de apoyo,Operación de sistemas informatizados,188,133461,1.0908952696075227,0.993920169177901
+2025-T2,"Servicios profesionales, científicos y técnicos",No tecnológica,65,50697,0.41439160116657725,0.3436426116838488
+2025-T2,"Servicios profesionales, científicos y técnicos",Operación de máquinas,9,5286,0.04320717209630802,0.047581284694686754
+2025-T2,"Servicios profesionales, científicos y técnicos",Operación de sistemas informatizados,519,431098,3.5237467794881185,2.7438540840602696
+2025-T2,Transporte y almacenamiento,No tecnológica,141,127568,1.0427265474804808,0.7454401268834259
+2025-T2,Transporte y almacenamiento,Operación de máquinas,646,495521,4.05033316767587,3.415278879196405
+2025-T2,Transporte y almacenamiento,Operación de sistemas informatizados,142,104336,0.8528307809005663,0.7507269362939466
+2025-T3,Actividades inmobiliarias,No tecnológica,18,13435,0.10768549839028817,0.09684187873244741
+2025-T3,Actividades inmobiliarias,Operación de sistemas informatizados,66,69358,0.5559248825719096,0.35508688868564053
+2025-T3,Administración pública,No tecnológica,482,225437,1.806944227808812,2.5932103082799807
+2025-T3,Administración pública,Operación de máquinas,151,80173,0.6426103060993356,0.8123957604777533
+2025-T3,Administración pública,Operación de sistemas informatizados,1113,624097,5.002322031178539,5.988056168289665
+2025-T3,"Agropecuario, silvicultura y pesca",No tecnológica,119,36763,0.2946663176272544,0.6402324205089579
+2025-T3,"Agropecuario, silvicultura y pesca",Operación de máquinas,25,6175,0.04949445125121171,0.13450260935062142
+2025-T3,"Agropecuario, silvicultura y pesca",Operación de sistemas informatizados,29,13550,0.10860725740144432,0.1560230268467208
+2025-T3,"Artes, recreación y otros servicios",No tecnológica,830,581048,4.657271564471913,4.465486630440631
+2025-T3,"Artes, recreación y otros servicios",Operación de máquinas,54,33380,0.2675505721077647,0.29052563619734223
+2025-T3,"Artes, recreación y otros servicios",Operación de sistemas informatizados,241,147202,1.1798675648713954,1.2966051541399903
+2025-T3,Comercio,No tecnológica,1931,1345326,10.783185769066826,10.388981546241997
+2025-T3,Comercio,Operación de máquinas,394,249338,1.9985178115100608,2.119761123365793
+2025-T3,Comercio,Operación de sistemas informatizados,1247,820575,6.577151309386729,6.708990154408996
+2025-T3,Construcción,No tecnológica,1577,949237,7.608415291068252,8.484424597837197
+2025-T3,Construcción,Operación de máquinas,91,43118,0.3456035221133193,0.4895894980362619
+2025-T3,Construcción,Operación de sistemas informatizados,108,69919,0.5604214634872019,0.5810512723946845
+2025-T3,Educación,No tecnológica,845,507517,4.067898852738659,4.546188196051004
+2025-T3,Educación,Operación de máquinas,12,8707,0.06978918008814582,0.06456125248829828
+2025-T3,Educación,Operación de sistemas informatizados,801,502091,4.024407858003586,4.30946360359391
+2025-T3,"Energía, agua y residuos",No tecnológica,79,58659,0.47016923335138916,0.4250282455479636
+2025-T3,"Energía, agua y residuos",Operación de máquinas,38,18975,0.15209023684076797,0.20444396621294453
+2025-T3,"Energía, agua y residuos",Operación de sistemas informatizados,54,38957,0.3122518765009643,0.29052563619734223
+2025-T3,Finanzas y seguros,No tecnológica,18,15127,0.12124737879790762,0.09684187873244741
+2025-T3,Finanzas y seguros,Operación de máquinas,7,7270,0.05827120009656828,0.037660730618173995
+2025-T3,Finanzas y seguros,Operación de sistemas informatizados,250,234895,1.882752895004595,1.3450260935062142
+2025-T3,Hogares empleadores,No tecnológica,1409,806419,6.463686782761278,7.580567063001022
+2025-T3,Hogares empleadores,Operación de sistemas informatizados,1,158,0.001266416728371085,0.005380104374024856
+2025-T3,Hotelería y restaurantes,No tecnológica,513,362907,2.908806934449148,2.759993543874751
+2025-T3,Hotelería y restaurantes,Operación de máquinas,42,24607,0.19723238250017272,0.22596438370904395
+2025-T3,Hotelería y restaurantes,Operación de sistemas informatizados,106,85314,0.6838169415458908,0.5702910636466347
+2025-T3,Industria manufacturera,No tecnológica,1128,752627,6.032527993821169,6.068757733900037
+2025-T3,Industria manufacturera,Operación de máquinas,471,352201,2.8229951781583833,2.5340291601657072
+2025-T3,Industria manufacturera,Operación de sistemas informatizados,299,299102,2.3973909891724574,1.6086512078334319
+2025-T3,Información y comunicaciones,No tecnológica,38,23640,0.18948159151071173,0.20444396621294453
+2025-T3,Información y comunicaciones,Operación de máquinas,9,3168,0.025392456933415176,0.04842093936622371
+2025-T3,Información y comunicaciones,Operación de sistemas informatizados,266,261780,2.098244121221409,1.4311077634906118
+2025-T3,Minería y canteras,No tecnológica,30,11735,0.09405949561667522,0.16140313122074568
+2025-T3,Minería y canteras,Operación de máquinas,36,12691,0.1017221183528952,0.19368375746489483
+2025-T3,Minería y canteras,Operación de sistemas informatizados,57,25984,0.20826944474679923,0.3066659493194168
+2025-T3,Organismos extraterritoriales,Operación de sistemas informatizados,1,388,0.0031099347506834242,0.005380104374024856
+2025-T3,Salud y servicios sociales,No tecnológica,693,472863,3.7901367938464334,3.7284123311992254
+2025-T3,Salud y servicios sociales,Operación de máquinas,55,28273,0.2266164567166816,0.2959057405713671
+2025-T3,Salud y servicios sociales,Operación de sistemas informatizados,504,366172,2.934976875070234,2.7115726045085276
+2025-T3,Servicios administrativos y de apoyo,No tecnológica,451,333103,2.6699190599404656,2.42642707268521
+2025-T3,Servicios administrativos y de apoyo,Operación de máquinas,114,73791,0.5914566886280427,0.6133318986388336
+2025-T3,Servicios administrativos y de apoyo,Operación de sistemas informatizados,172,143465,1.1499144046566945,0.9253779523322752
+2025-T3,"Servicios profesionales, científicos y técnicos",No tecnológica,78,64758,0.5190545221256628,0.4196481411739388
+2025-T3,"Servicios profesionales, científicos y técnicos",Operación de máquinas,5,2072,0.01660769279230942,0.026900521870124282
+2025-T3,"Servicios profesionales, científicos y técnicos",Operación de sistemas informatizados,528,422237,3.38435443124824,2.8406951094851243
+2025-T3,Transporte y almacenamiento,No tecnológica,156,168971,1.3543525380353838,0.8392962823478776
+2025-T3,Transporte y almacenamiento,Operación de máquinas,702,540606,4.33311697378341,3.7768332705654486
+2025-T3,Transporte y almacenamiento,Operación de sistemas informatizados,143,136785,1.0963722290521447,0.7693549254855544
+2025-T4,Actividades inmobiliarias,No tecnológica,20,21399,0.17254283092157174,0.10989010989010989
+2025-T4,Actividades inmobiliarias,Operación de máquinas,2,1084,0.008740428464834046,0.010989010989010988
+2025-T4,Actividades inmobiliarias,Operación de sistemas informatizados,82,80178,0.6464853076138969,0.4505494505494505
+2025-T4,Administración pública,No tecnológica,575,286557,2.3105451656803044,3.159340659340659
+2025-T4,Administración pública,Operación de máquinas,169,99220,0.8000233508125777,0.9285714285714286
+2025-T4,Administración pública,Operación de sistemas informatizados,1179,609429,4.913902748058439,6.478021978021978
+2025-T4,"Agropecuario, silvicultura y pesca",No tecnológica,130,49230,0.3969476875680628,0.7142857142857143
+2025-T4,"Agropecuario, silvicultura y pesca",Operación de máquinas,30,8149,0.06570641287816664,0.16483516483516483
+2025-T4,"Agropecuario, silvicultura y pesca",Operación de sistemas informatizados,27,17743,0.143064042667482,0.14835164835164835
+2025-T4,"Artes, recreación y otros servicios",No tecnológica,885,603207,4.863733978770435,4.862637362637363
+2025-T4,"Artes, recreación y otros servicios",Operación de máquinas,80,55138,0.44458463532658643,0.43956043956043955
+2025-T4,"Artes, recreación y otros servicios",Operación de sistemas informatizados,178,135977,1.0963996691538185,0.9780219780219781
+2025-T4,Comercio,No tecnológica,1937,1293874,10.432668947886244,10.642857142857142
+2025-T4,Comercio,Operación de máquinas,414,246780,1.9898182071510573,2.2747252747252746
+2025-T4,Comercio,Operación de sistemas informatizados,1109,744039,5.999280124120535,6.093406593406593
+2025-T4,Construcción,No tecnológica,1559,1022277,8.242748145521361,8.565934065934066
+2025-T4,Construcción,Operación de máquinas,82,53008,0.4274101771807409,0.4505494505494505
+2025-T4,Construcción,Operación de sistemas informatizados,104,59993,0.48373111152286813,0.5714285714285714
+2025-T4,Educación,No tecnológica,786,473402,3.817099922610118,4.318681318681318
+2025-T4,Educación,Operación de máquinas,7,5413,0.04364570044293976,0.038461538461538464
+2025-T4,Educación,Operación de sistemas informatizados,747,456758,3.682897255295821,4.104395604395605
+2025-T4,"Energía, agua y residuos",No tecnológica,74,48669,0.3924242739437345,0.4065934065934066
+2025-T4,"Energía, agua y residuos",Operación de máquinas,29,22977,0.18526644357609953,0.15934065934065936
+2025-T4,"Energía, agua y residuos",Operación de sistemas informatizados,50,37322,0.30093198446912944,0.27472527472527475
+2025-T4,Finanzas y seguros,No tecnológica,11,11325,0.0913149007050236,0.06043956043956044
+2025-T4,Finanzas y seguros,Operación de máquinas,4,3509,0.0282935087482497,0.021978021978021976
+2025-T4,Finanzas y seguros,Operación de sistemas informatizados,224,214994,1.7335236876093463,1.2307692307692308
+2025-T4,Hogares empleadores,No tecnológica,1376,916984,7.393757431178398,7.560439560439561
+2025-T4,Hogares empleadores,Operación de sistemas informatizados,1,85,0.0006853657006558063,0.005494505494505494
+2025-T4,Hotelería y restaurantes,No tecnológica,762,527134,4.250347802935268,4.186813186813187
+2025-T4,Hotelería y restaurantes,Operación de máquinas,103,69211,0.5580570059775178,0.5659340659340659
+2025-T4,Hotelería y restaurantes,Operación de sistemas informatizados,97,83491,0.6731984436876932,0.532967032967033
+2025-T4,Industria manufacturera,No tecnológica,830,591780,4.771596639224624,4.56043956043956
+2025-T4,Industria manufacturera,Operación de máquinas,415,320255,2.5822563819238264,2.28021978021978
+2025-T4,Industria manufacturera,Operación de sistemas informatizados,249,264929,2.136155878929907,1.3681318681318682
+2025-T4,Información y comunicaciones,No tecnológica,36,16664,0.13436392983209833,0.1978021978021978
+2025-T4,Información y comunicaciones,Operación de máquinas,5,1055,0.008506597814022066,0.027472527472527472
+2025-T4,Información y comunicaciones,Operación de sistemas informatizados,256,245304,1.9779170333373164,1.4065934065934065
+2025-T4,Minería y canteras,No tecnológica,29,9680,0.07805105861586123,0.15934065934065936
+2025-T4,Minería y canteras,Operación de máquinas,24,10102,0.08145369774147007,0.13186813186813187
+2025-T4,Minería y canteras,Operación de sistemas informatizados,45,35358,0.2850960052210353,0.24725274725274723
+2025-T4,Organismos extraterritoriales,Operación de sistemas informatizados,3,1434,0.011562522526357956,0.016483516483516484
+2025-T4,Salud y servicios sociales,No tecnológica,668,464982,3.7492084026157424,3.67032967032967
+2025-T4,Salud y servicios sociales,Operación de máquinas,67,57312,0.4621138710115949,0.36813186813186816
+2025-T4,Salud y servicios sociales,Operación de sistemas informatizados,464,332308,2.6794412382768193,2.5494505494505497
+2025-T4,Servicios administrativos y de apoyo,No tecnológica,464,308147,2.484628053646879,2.5494505494505497
+2025-T4,Servicios administrativos y de apoyo,Operación de máquinas,128,77489,0.6248035620955033,0.7032967032967032
+2025-T4,Servicios administrativos y de apoyo,Operación de sistemas informatizados,162,155947,1.2574202931784826,0.8901098901098902
+2025-T4,"Servicios profesionales, científicos y técnicos",No tecnológica,77,59149,0.4769258332716504,0.4230769230769231
+2025-T4,"Servicios profesionales, científicos y técnicos",Operación de máquinas,11,6930,0.05587746241817338,0.06043956043956044
+2025-T4,"Servicios profesionales, científicos y técnicos",Operación de sistemas informatizados,506,434837,3.5061454726596333,2.78021978021978
+2025-T4,Transporte y almacenamiento,No tecnológica,146,133236,1.0742986410891413,0.8021978021978022
+2025-T4,Transporte y almacenamiento,Operación de máquinas,680,519185,4.186254015235115,3.7362637362637363
+2025-T4,Transporte y almacenamiento,Operación de sistemas informatizados,102,97499,0.7861467111557701,0.5604395604395604
+2026-T1,Actividades inmobiliarias,No tecnológica,32,35147,0.28247145930781914,0.17620175100490063
+2026-T1,Actividades inmobiliarias,Operación de máquinas,2,559,0.004492603799842686,0.011012609437806289
+2026-T1,Actividades inmobiliarias,Operación de sistemas informatizados,75,70024,0.5627729668697393,0.4129728539177358
+2026-T1,Administración pública,No tecnológica,544,278192,2.2357896892412104,2.9954297670833108
+2026-T1,Administración pública,Operación de máquinas,210,108871,0.8749808019546926,1.1563239909696603
+2026-T1,Administración pública,Operación de sistemas informatizados,1196,623487,5.010876682204861,6.585540443808161
+2026-T1,"Agropecuario, silvicultura y pesca",No tecnológica,96,31422,0.2525341620727315,0.5286052530147018
+2026-T1,"Agropecuario, silvicultura y pesca",Operación de máquinas,33,9615,0.07727439272895784,0.18170805572380377
+2026-T1,"Agropecuario, silvicultura y pesca",Operación de sistemas informatizados,29,16474,0.13239920393310986,0.15968283684819118
+2026-T1,"Artes, recreación y otros servicios",No tecnológica,845,619442,4.9783675903079665,4.652827487473156
+2026-T1,"Artes, recreación y otros servicios",Operación de máquinas,49,35810,0.28779989637274883,0.2698089312262541
+2026-T1,"Artes, recreación y otros servicios",Operación de sistemas informatizados,176,113999,0.9161938114101367,0.9691096305269533
+2026-T1,Comercio,No tecnológica,1975,1316757,10.582589448424788,10.87495181983371
+2026-T1,Comercio,Operación de máquinas,397,222564,1.7887153347194773,2.1860029734045483
+2026-T1,Comercio,Operación de sistemas informatizados,1160,813792,6.540331004439319,6.387313473927647
+2026-T1,Construcción,No tecnológica,1511,974170,7.829266267786672,8.32002643026265
+2026-T1,Construcción,Operación de máquinas,66,32720,0.26296600416968285,0.36341611144760755
+2026-T1,Construcción,Operación de sistemas informatizados,92,56831,0.456742695078461,0.5065800341390893
+2026-T1,Educación,No tecnológica,824,470953,3.7849825355050317,4.5371950883761905
+2026-T1,Educación,Operación de máquinas,10,5192,0.04172736838780542,0.05506304718903145
+2026-T1,Educación,Operación de sistemas informatizados,682,391581,3.147081017077279,3.755299818291944
+2026-T1,"Energía, agua y residuos",No tecnológica,72,56805,0.4565337367621893,0.3964539397610264
+2026-T1,"Energía, agua y residuos",Operación de máquinas,40,19333,0.15537658186468453,0.2202521887561258
+2026-T1,"Energía, agua y residuos",Operación de sistemas informatizados,51,32470,0.26095678959014673,0.28082154066406034
+2026-T1,Finanzas y seguros,No tecnológica,19,10003,0.08039269375639785,0.10461978965915975
+2026-T1,Finanzas y seguros,Operación de máquinas,6,2736,0.021988844358442918,0.033037828313418866
+2026-T1,Finanzas y seguros,Operación de sistemas informatizados,218,196748,1.581235800378263,1.2003744287208855
+2026-T1,Hogares empleadores,No tecnológica,1330,891845,7.167631906745439,7.323385276141181
+2026-T1,Hogares empleadores,Operación de máquinas,1,177,0.0014225239223115483,0.0055063047189031445
+2026-T1,Hogares empleadores,Operación de sistemas informatizados,1,3192,0.025653651751516737,0.0055063047189031445
+2026-T1,Hotelería y restaurantes,No tecnológica,785,526115,4.22831171405051,4.322449204338969
+2026-T1,Hotelería y restaurantes,Operación de máquinas,63,44039,0.35393520347275864,0.3468971972908981
+2026-T1,Hotelería y restaurantes,Operación de sistemas informatizados,99,76310,0.6132926582575946,0.5451241671714113
+2026-T1,Industria manufacturera,No tecnológica,871,677355,5.44380616608666,4.795991410164638
+2026-T1,Industria manufacturera,Operación de máquinas,435,380293,3.056360960382066,2.3952425527228676
+2026-T1,Industria manufacturera,Operación de sistemas informatizados,268,266370,2.140777950204108,1.4756896646660427
+2026-T1,Información y comunicaciones,No tecnológica,50,40065,0.321996728516453,0.27531523594515717
+2026-T1,Información y comunicaciones,Operación de máquinas,16,5878,0.047240653194052434,0.08810087550245031
+2026-T1,Información y comunicaciones,Operación de sistemas informatizados,258,261424,2.101027648962566,1.4206266174770112
+2026-T1,Minería y canteras,No tecnológica,34,14521,0.11670321963777397,0.18721436044270692
+2026-T1,Minería y canteras,Operación de máquinas,23,8001,0.06430290340347287,0.1266450085347723
+2026-T1,Minería y canteras,Operación de sistemas informatizados,45,21132,0.1698348899790262,0.24778371235064148
+2026-T1,Organismos extraterritoriales,Operación de máquinas,1,1450,0.011653444561309295,0.0055063047189031445
+2026-T1,Organismos extraterritoriales,Operación de sistemas informatizados,2,2762,0.02219780267471467,0.011012609437806289
+2026-T1,Salud y servicios sociales,No tecnológica,655,437414,3.5154343443727885,3.606629590881559
+2026-T1,Salud y servicios sociales,Operación de máquinas,55,37740,0.3033110329267674,0.30284675953967294
+2026-T1,Salud y servicios sociales,Operación de sistemas informatizados,484,368240,2.9594927070734722,2.6650514839491217
+2026-T1,Servicios administrativos y de apoyo,No tecnológica,504,355743,2.8590560886716223,2.7751775783271846
+2026-T1,Servicios administrativos y de apoyo,Operación de máquinas,121,79094,0.6356672718153085,0.6662628709872804
+2026-T1,Servicios administrativos y de apoyo,Operación de sistemas informatizados,172,180233,1.4485070852541089,0.9470844116513407
+2026-T1,"Servicios profesionales, científicos y técnicos",No tecnológica,61,45110,0.3625426787314912,0.3358845878530918
+2026-T1,"Servicios profesionales, científicos y técnicos",Operación de máquinas,9,8073,0.06488155720237927,0.0495567424701283
+2026-T1,"Servicios profesionales, científicos y técnicos",Operación de sistemas informatizados,453,410024,3.295304795038815,2.4943560376631244
+2026-T1,Transporte y almacenamiento,No tecnológica,125,125543,1.008971303834795,0.688288089862893
+2026-T1,Transporte y almacenamiento,Operación de máquinas,711,500680,4.023894222728509,3.914982655140135
+2026-T1,Transporte y almacenamiento,Operación de sistemas informatizados,119,128153,1.0299475040451518,0.6552502615494741

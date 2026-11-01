@@ -1,0 +1,9 @@
+{
+  "kitagawa_replicates": 1000,
+  "model_bootstrap_replicates": 60,
+  "seed": 20261013,
+  "strict_rows": 73863,
+  "analytical_households": 31122,
+  "model_ci_is_exploratory": true,
+  "models_note": "Weighted pseudo-maximum likelihood; marginal predictions use the same weighted reference rows for both sexes; clustered bootstrap sensitivity, not full EPH survey variance."
+}

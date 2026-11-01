@@ -1,0 +1,43 @@
+education,sex,technology_category,unweighted,weighted,weighted_percent,unweighted_percent,education_label,sex_label
+1,1,No tecnológica,1002,165209.75,4.606537886398661,4.561595192570336,Primaria incompleta,Varones
+1,1,Operación de máquinas,222,35095.0,2.8175267101050423,3.0385984122638927,Primaria incompleta,Varones
+1,1,Operación de sistemas informatizados,44,6939.0,0.3604162784642963,0.41572184429327286,Primaria incompleta,Varones
+1,2,No tecnológica,557,101737.25,3.1764607716082796,2.8364821510414013,Primaria incompleta,Mujeres
+1,2,Operación de máquinas,37,6156.0,2.3632861424709124,2.2755227552275525,Primaria incompleta,Mujeres
+1,2,Operación de sistemas informatizados,29,3137.25,0.1446979929538569,0.22755806654111738,Primaria incompleta,Mujeres
+2,1,No tecnológica,3814,653785.75,18.229486013764706,17.36319766912501,Primaria completa,Varones
+2,1,Operación de máquinas,1167,211783.75,17.002603572908072,15.973172734738572,Primaria completa,Varones
+2,1,Operación de sistemas informatizados,261,44408.25,2.3065940622729624,2.465986394557823,Primaria completa,Varones
+2,2,No tecnológica,2458,401046.25,12.521546245112846,12.517186943015734,Primaria completa,Mujeres
+2,2,Operación de máquinas,201,34007.25,13.05537080385704,12.361623616236162,Primaria completa,Mujeres
+2,2,Operación de sistemas informatizados,166,24869.0,1.1470218780044523,1.302573760200879,Primaria completa,Mujeres
+3,1,No tecnológica,5264,839443.0,23.406160852928785,23.964308476736775,Secundaria incompleta,Varones
+3,1,Operación de máquinas,1837,312948.5,25.124398280020166,25.14371749247194,Secundaria incompleta,Varones
+3,1,Operación de sistemas informatizados,669,107571.5,5.587335307511465,6.320861678004536,Secundaria incompleta,Varones
+3,2,No tecnológica,3388,588021.0,18.35930929312393,17.253144574018435,Secundaria incompleta,Mujeres
+3,2,Operación de máquinas,279,48331.25,18.554349150957975,17.15867158671587,Secundaria incompleta,Mujeres
+3,2,Operación de sistemas informatizados,484,80788.75,3.726183752729591,3.797865662272442,Secundaria incompleta,Mujeres
+4,1,No tecnológica,7809,1220461.0,34.03007289443871,35.55039606664845,Secundaria completa,Varones
+4,1,Operación de máquinas,3007,512159.25,41.11760554786624,41.15795236791678,Secundaria completa,Varones
+4,1,Operación de sistemas informatizados,3159,507441.25,26.35683626808915,29.846938775510207,Secundaria completa,Varones
+4,2,No tecnológica,6715,1095491.75,34.20366256700967,34.195651066863576,Secundaria completa,Mujeres
+4,2,Operación de máquinas,626,99290.75,38.11768251308378,38.49938499384994,Secundaria completa,Mujeres
+4,2,Operación de sistemas informatizados,3240,490712.75,22.63292693979369,25.423728813559322,Secundaria completa,Mujeres
+5,1,No tecnológica,1971,347186.25,9.680582497471713,8.972958208139852,Terciaria/universitaria incompleta,Varones
+5,1,Operación de máquinas,609,105808.5,8.494608203623004,8.33561456337257,Terciaria/universitaria incompleta,Varones
+5,1,Operación de sistemas informatizados,2300,482001.75,25.035491706049594,21.730914588057445,Terciaria/universitaria incompleta,Varones
+5,2,No tecnológica,2640,419755.75,13.105697996869505,13.444008758975404,Terciaria/universitaria incompleta,Mujeres
+5,2,Operación de máquinas,242,36868.75,14.153899604487401,14.883148831488317,Terciaria/universitaria incompleta,Mujeres
+5,2,Operación de sistemas informatizados,2661,502779.5,23.189476308341288,20.880414312617702,Terciaria/universitaria incompleta,Mujeres
+6,1,No tecnológica,2028,347427.0,9.68729532160074,9.232450150232177,Terciaria/universitaria completa,Varones
+6,1,Operación de máquinas,450,65702.0,5.27474397798323,6.159321105940323,Terciaria/universitaria completa,Varones
+6,1,Operación de sistemas informatizados,4145,775634.75,40.28698516249962,39.16288737717309,Terciaria/universitaria completa,Varones
+6,2,No tecnológica,3827,589025.75,18.39067979861993,19.488720272954115,Terciaria/universitaria completa,Mujeres
+6,2,Operación de máquinas,240,35722.0,13.713662700023708,14.760147601476014,Terciaria/universitaria completa,Mujeres
+6,2,Operación de sistemas informatizados,6146,1062442.0,49.00254204474672,48.226616446955425,Terciaria/universitaria completa,Mujeres
+7,1,No tecnológica,78,12906.25,0.35986453339668345,0.3550942365473914,Posgrado,Varones
+7,1,Operación de máquinas,14,2099.0,0.16851370749424371,0.19162332329592116,Posgrado,Varones
+7,1,Operación de sistemas informatizados,6,1277.25,0.06634121511291577,0.05668934240362812,Posgrado,Varones
+7,2,No tecnológica,52,7771.5,0.24264332765583643,0.2648062331313337,Posgrado,Mujeres
+7,2,Operación de máquinas,1,108.75,0.041749085119186444,0.06150061500615006,Posgrado,Mujeres
+7,2,Operación de sistemas informatizados,18,3407.25,0.1571510834304021,0.14124293785310735,Posgrado,Mujeres

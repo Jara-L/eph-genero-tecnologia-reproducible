@@ -1,0 +1,7 @@
+table,denominator,groups,max_abs_deviation_from_100_pp,all_groups_close
+tabla_1_sector_sexo.csv,sector_provisional,19,1.4210854715202004e-14,True
+tabla_2_sector_tecnologia.csv,sector_provisional,19,1.4210854715202004e-14,True
+tabla_3_sector_sexo_tecnologia.csv,sector_provisional × sex,38,1.4210854715202004e-14,True
+tabla_4_educacion_sexo_tecnologia.csv,sex × technology_category,6,0.0,True
+tabla_5_trimestre_sector_tecnologia.csv,source_quarter,4,0.0,True
+tabla_5_trimestre_tecnologia.csv,source_quarter,4,0.0,True
