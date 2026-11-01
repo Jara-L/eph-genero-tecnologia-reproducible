@@ -1,5 +1,7 @@
 # Más allá de la educación: estructura productiva y brechas de género en las ocupaciones tecnológicas argentinas
 
+[![DOI](https://zenodo.org/badge/1442103728.svg)](https://doi.org/10.5281/zenodo.23865959)
+
 Repositorio de código reproducible para el artículo sobre estructura productiva, educación y brechas observadas por sexo en las ocupaciones tecnológicas de Argentina.
 
 ## Autores y afiliación
